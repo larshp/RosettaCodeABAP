@@ -1,4 +1,4 @@
-[![abaplint](http://abaplint.org/badges/larshp/RosettaCodeABAP)](http://abaplint.org/project/larshp/RosettaCodeABAP)
+[![abaplint](https://app.abaplint.org/badges/larshp/RosettaCodeABAP)](https://app.abaplint.org/project/larshp/RosettaCodeABAP)
 
 # RosettaCodeABAP
 Rosetta Code - ABAP solutions
